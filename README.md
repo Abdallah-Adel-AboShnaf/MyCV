@@ -1,7 +1,7 @@
 # 📊 Abdallah Adel - Professional Data Scientist Portfolio
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=CV+Website+Preview" alt="CV Preview" width="600"/>
+  <img src="image 1.png" alt="CV Preview" width="600"/>
 </div>
 
 ## 🚀 About This Project
